@@ -7,7 +7,8 @@ def second_challenge
   }
 
   #code your solution here!
-groceries.values
+  grocery_list = []
+grocery_list << groceries.values
 
 
 end
