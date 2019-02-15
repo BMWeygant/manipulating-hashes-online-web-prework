@@ -22,7 +22,7 @@ data.each {|attribute, value|
       }
       }
     }
-
+}
   #remember to return your newly altered contacts hash!
   contacts
 end
